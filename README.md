@@ -39,7 +39,15 @@ the projects in figma.
 [Click here to go to the prototype in figma.](https://www.figma.com/file/Z7bK7du3JL11GXdjHMKw8e/Aplicaci%C3%B3n-m%C3%B3vil?type=design&mode=design&t=5MIZgLxftGQTU0p4-1) (Not Mandatory!)
 
 ![c1](captures-mobile-prototype/c1.PNG)
-
+![c2](captures-mobile-prototype/c2.PNG)
+![c3](captures-mobile-prototype/c3.PNG)
+![c4](captures-mobile-prototype/c4.PNG)
+![c5](captures-mobile-prototype/c5.PNG)
+![c6](captures-mobile-prototype/c6.PNG)
+![c7](captures-mobile-prototype/c7.PNG)
+![c8](captures-mobile-prototype/c8.PNG)
+![c9](captures-mobile-prototype/c9.PNG)
+![c10](captures-mobile-prototype/c10.PNG)
 
 ### Web Module
 [Click here to go to the prototype in figma.](https://www.figma.com/file/6VRYsy5zd0mCjp9DBXiWGH/SITIO-WEB?type=design&node-id=0%3A1&mode=design&t=ZdupB0wBs5cKVbPd-1)(Not Mandatory!)
