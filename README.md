@@ -38,6 +38,7 @@ the projects in figma.
 ### Mobile Module
 [Click here to go to the prototype in figma.](https://www.figma.com/file/Z7bK7du3JL11GXdjHMKw8e/Aplicaci%C3%B3n-m%C3%B3vil?type=design&mode=design&t=5MIZgLxftGQTU0p4-1) (Not Mandatory!)
 
+![c1](captures-mobile-prototype/c1.PNG)
 
 
 ### Web Module
