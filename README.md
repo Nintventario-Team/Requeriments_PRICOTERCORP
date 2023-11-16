@@ -1,6 +1,7 @@
 # Requeriments_PRICOTERCORP
 In this README.md you will find the evidences, the prototypes and the document of the Software Requirements for PricoTercorp S.A system.
-The project name is "Nintventario". You can find the document of the requirements in the files of this respository.
+The project name is "Nintventario". You can find the document of the requirements in the files of this respository. \
+Only if you want, you can check the LaTeX project [here](https://es.overleaf.com/4254396624vdgszmjpzdtq#e96311) but it is not necessary.
 
 
 
