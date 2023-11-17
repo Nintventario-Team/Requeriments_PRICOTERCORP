@@ -53,10 +53,10 @@ the projects in figma.
 ### Web Module
 [Click here to go to the prototype in figma.](https://www.figma.com/file/6VRYsy5zd0mCjp9DBXiWGH/SITIO-WEB?type=design&node-id=0%3A1&mode=design&t=ZdupB0wBs5cKVbPd-1)(Not Mandatory!)
 
-![w1](captures-web-prototype/c1.PNG)
-![w2](captures-web-prototype/c2.PNG)
-![w3](captures-web-prototype/c3.PNG)
-![w4](captures-web-prototype/c4.PNG)
-![w5](captures-web-prototype/c5.PNG)
-![w6](captures-web-prototype/c6.PNG)
+![w1](captures-web-prototype/C1.PNG)
+![w2](captures-web-prototype/C2.PNG)
+![w3](captures-web-prototype/C3.PNG)
+![w4](captures-web-prototype/C4.PNG)
+![w5](captures-web-prototype/C5.PNG)
+![w6](captures-web-prototype/C6.PNG)
 
