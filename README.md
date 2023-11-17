@@ -62,4 +62,10 @@ the projects in figma.
 ![w4](captures-web-prototype/C4.png)
 ![w5](captures-web-prototype/C5.png)
 ![w6](captures-web-prototype/C6.png)
+![w7](captures-web-prototype/C7.png)
+![w8](captures-web-prototype/C8.png)
+![w9](captures-web-prototype/C9.png)
+![w10](captures-web-prototype/C10.png)
+![w11](captures-web-prototype/C11.png)
+![w12](captures-web-prototype/C12.png)
 
