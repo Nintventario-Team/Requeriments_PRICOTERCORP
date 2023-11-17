@@ -28,8 +28,11 @@ for the code of each product so that customers can reserve a product of interest
 
 ## Evidence of lifting the requirements
 
+### Memorandum of association
+![confirmation from the pricotercorp](evidences/Memorandum_of_association.PNG)
 
-
+### Lifting Requeriments
+![requeriments from the pricotercorp company](evidences/Lifting_Requirements.jpeg)
 
 
 ## Prototypes
