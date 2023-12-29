@@ -5,7 +5,7 @@ Only if you want, you can check the LaTeX project [here](https://es.overleaf.com
 
 
 
-## Contenido
+## Content
 * [Summarize](#summarize)
 * [Evidence of lifting the requirements](#evidence-of-lifting-the-requirements)
 * [Prototypes](#prototypes)
